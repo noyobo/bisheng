@@ -1,6 +1,6 @@
 {
-  "name": "bisheng",
-  "version": "0.8.0-beta.2",
+  "name": "@ali/ice-bisheng",
+  "version": "0.1.0",
   "description": "Transform Markdown files into a SPA website using React.",
   "bin": {
     "bisheng": "./bin/bisheng"
@@ -66,5 +66,8 @@
     "eslint-config-egg": "^2.0.0",
     "mocha": "^2.4.5",
     "pre-commit": "^1.1.2"
+  },
+  "publishConfig": {
+      "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
