@@ -36,6 +36,7 @@
     "bluebird": "^3.4.0",
     "commander": "^2.9.0",
     "css-loader": "^0.23.1",
+    "detective-module": "~2.0.0",
     "dora": "^0.3.2",
     "dora-plugin-browser-history": "^0.1.1",
     "dora-plugin-livereload": "noyobo/dora-plugin-livereload",
@@ -45,6 +46,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "gh-pages": "^0.11.0",
     "history": "^2.1.1",
+    "import-generator": "~0.1.1",
     "jsonml-to-react-component": "^0.2.2",
     "jsonml.js": "^0.1.0",
     "loader-utils": "^0.2.14",
@@ -60,7 +62,8 @@
     "react-dom": "^15.0.2",
     "react-router": "^2.4.0",
     "resolve": "^1.1.7",
-    "sass-loader": "^4.0.0"
+    "sass-loader": "^4.0.0",
+    "uppercamelcase": "~1.1.0"
   },
   "devDependencies": {
     "eslint": "^2.9.0",
