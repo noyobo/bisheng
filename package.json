@@ -1,6 +1,6 @@
 {
   "name": "@ali/ice-bisheng",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Transform Markdown files into a SPA website using React.",
   "bin": {
     "bisheng": "./bin/bisheng"
@@ -69,6 +69,6 @@
     "pre-commit": "^1.1.2"
   },
   "publishConfig": {
-      "registry": "http://registry.npm.alibaba-inc.com"
+    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
